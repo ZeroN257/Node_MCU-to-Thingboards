@@ -129,7 +129,7 @@
 
 <h2 id="authors-and-acknowledgements">Authors and Acknowledgements</h2>
 <ul>
-    <li><strong>Your Name</strong> - Initial work - <a href="https://github.com/your-username" target="_blank">YourGitHubProfile</a></li>
+    <li><strong>Nguyen Duc Le Nguyen</strong> - Initial work - <a href="https://github.com/ZeroN257" target="_blank">YourGitHubProfile</a></li>
 </ul>
 <p>Special thanks to the developers of <a href="https://thingsboard.io/" target="_blank">ThingsBoard</a> and <a href="https://nodemcu.readthedocs.io/" target="_blank">NodeMCU</a> for their great tools and platforms.</p>
 

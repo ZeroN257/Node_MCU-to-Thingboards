@@ -131,7 +131,7 @@
 <ul>
     <li><strong>Nguyen Duc Le Nguyen</strong> - Initial work - <a href="https://github.com/ZeroN257" target="_blank">ZeroN257</a></li>
 </ul>
-<p>Special thanks to the developers of <a href="https://thingsboard.io/" target="_blank">ThingsBoard</a> and <a href="https://nodemcu.readthedocs.io/" target="_blank">NodeMCU</a> for their great tools and platforms.</p>
+
 
 <h2 id="contact-information">Contact Information</h2>
 <p>For any questions or support, please open an issue in the repository or contact me at <a href="mailto:your.email@example.com">your.email@example.com</a>.</p>
